@@ -1,0 +1,184 @@
+body{
+
+    margin: 0px;
+    padding: 0px;
+    background: #f3f5fc;
+
+
+}
+
+.container{
+
+    margin: auto;
+    width: 960px;
+    height: 650px;
+    padding: 5px;
+
+
+
+}
+
+.logo{
+    width: 100%;
+    float: left;
+
+}
+
+.left{
+
+    text-align: center;
+    font-size: 25px;
+    float: left;
+    width: 70%;
+    height: 70%;
+    border-radius: 24px;
+   
+
+
+}
+
+.right{
+
+    text-align: center;
+    font-size: 25px;
+    float: right;
+    width: 30%;
+    height: auto;
+    border-radius: 24px;
+    background: white;
+   
+
+
+}
+
+.left-button{
+
+    text-align: center;
+    font-size: 25px;
+    float: left;
+    width: 70%;
+    height: auto;
+    border-radius: 24px;
+
+
+
+}
+
+.logoImg{
+
+    margin-left: 5%;
+    margin-top: 1%;
+    float: inherit;
+
+}
+
+.title{
+
+    float: inherit;
+    margin-left: 25%;
+    margin-top: 2%;
+    font-size: 20px;
+
+
+}
+
+.text-input{
+
+    float: left;
+    margin-left: 10%;
+    margin: 10%;
+    width: 80%;
+    height: 80%;
+    color: #0A3871;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    background: #f3f5fc;
+    text-transform: lowercase;
+
+}
+
+#imgDer{
+
+    margin-left: 2%;
+    margin-top: 20%;
+    width: 90%;
+    height: auto;
+    
+}
+
+#texto{
+
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+#texto2{
+
+    margin-top: 20px;
+    float: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: #0A3871;
+    width: 80%;
+    height: 60%;
+    border: none;
+    outline: none;
+    font-size: 70%;
+
+}
+
+
+#minus{
+
+    font-size: 15px;
+    margin-right: 47%;
+    margin-bottom: 2%;
+
+}
+
+
+#btn-encrip{
+
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 15px;
+    margin-right: 10%;
+    background: #0A3871;
+    color: white;
+
+}
+
+#btn-desencrip{
+
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 15px;
+    margin-right: 10%;
+    background: #D8DFE8;
+
+}
+
+#copiar{
+
+    margin-left: 33%;
+    margin-top: 5%;
+    padding: 24px;
+    width: 40%;
+    height: 10%;
+    border-radius: 10%;
+    background: #D8DFE8;
+    display: none;
+}
+
+.pie{
+
+    text-align: center;
+    margin-top: 5%;
+    font-size: 20px;
+    font-weight: bold;
+
+}
